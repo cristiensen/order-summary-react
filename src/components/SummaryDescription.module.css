@@ -1,0 +1,9 @@
+.description {
+    padding: 0 5px;
+    margin: 0.5rem 0;
+    text-align: center;
+    color: hsl(223, 9%, 53%);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.7;
+}

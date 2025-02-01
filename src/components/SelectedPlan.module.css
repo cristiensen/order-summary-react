@@ -1,0 +1,36 @@
+.selectedPlan {
+    background-color: hsl(230, 75%, 98%);
+    border-radius: 10px;
+    margin: 1rem 0;
+    padding: 1rem 0.75rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.planPreview {
+    display: flex;
+    flex-direction: row;
+    gap: 0.75rem;
+}
+
+.planTypeText {
+    font-weight: 600;
+    font-size: 0.7rem;
+}
+
+.price {
+    font-size: 0.7rem;
+    font-weight: 500;
+    color: hsl(225, 12%, 59%);
+}
+
+.changeButton {
+    color: hsl(246, 58%, 56%);
+    padding: 0;
+    border: none;
+    background: none;
+    font-size: 0.6rem;
+    font-weight: 700;
+    text-decoration: underline;
+}

@@ -1,0 +1,26 @@
+.summaryButton {
+    width: 100%;
+    height: 2.7rem;
+    border: none;
+    border-radius: 12px;
+    font-size: 0.7rem;
+    font-weight: 700;
+}
+
+.primaryButton {
+    background-color: hsl(245, 75%, 52%);
+    color: hsl(0, 0%, 100%);
+}
+
+.primaryButton:active {
+    background-color: hsl(245, 83%, 68%);
+}
+
+.secondaryButton {
+    background: none;
+    color: hsl(228, 15%, 55%);
+}
+
+.secondaryButton:active {
+    color: hsl(0, 0%, 0%);
+}
