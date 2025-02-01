@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/cristiensen/order-summary-react",
+  "homepage": "https://cristiensen.github.io/order-summary-react/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
